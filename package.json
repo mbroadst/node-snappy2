@@ -1,0 +1,18 @@
+{
+  "name": "snappy2",
+  "version": "0.0.1",
+  "description": "node.js addon for the snappy compression library",
+  "main": "lib/snappy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Broadstone <mbroadst@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.6.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
